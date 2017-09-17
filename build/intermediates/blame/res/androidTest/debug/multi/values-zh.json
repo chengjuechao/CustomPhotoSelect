@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 45,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 49,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 49,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 51,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 51,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 42,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 42,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 42,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 42,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 45,
+                    "endOffset": 375
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 45,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 380,
+                    "endColumn": 67,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\1.0.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 67,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 41,
+                    "endOffset": 485
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\1.0.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 41,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 490,
+                    "endColumn": 50,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\1.0.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 50,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 48,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\1.0.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 48,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 43,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\exploded-aar\\com.soundcloud.android\\android-crop\\1.0.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 43,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 47,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 47,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 52,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 52,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 63,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 63,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 60,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 60,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 64,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 561,
+                        "endColumn": 64,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 53,
+                    "endOffset": 974
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 53,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 979,
+                    "endColumn": 59,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 59,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 54,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 54,
+                        "endOffset": 790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 50,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "D:\\dm file\\SouGuo\\matisse\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 50,
+                        "endOffset": 841
+                    }
+                }
+            }
+        ]
+    }
+]
